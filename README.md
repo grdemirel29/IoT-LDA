@@ -7,5 +7,4 @@ This paper analyzes IoT research trends over the past two decades using text-min
 This repository contains supplementary materials for the paper.
 
 ## Contents
-- [Tables](tables/): Detailed tables of study methodology and results.
-- [Datasets](datasets/): 
+- [Datasets](datasets/): The datasets generated and/or analyzed during this study.
