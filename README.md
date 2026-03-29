@@ -21,4 +21,4 @@ This repository contains the full computational workflow used for the LDA topic 
   - **Number of Topics (K):** 11 (Selected based on coherence and perplexity scores).
   - **Passes/Iterations:** Default Orange settings.
 
-To reproduce the results, download raw data and open the `.ows` file in Orange Data Mining and link the provided dataset to the 'File' widget.
+To reproduce the results, download raw file and open the `.ows` file in Orange Data Mining and link the provided dataset to the 'File' widget.
