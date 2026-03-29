@@ -14,11 +14,11 @@ This repository contains supplementary materials for the paper.
 This repository contains the full computational workflow used for the LDA topic modeling analysis.
 
 - **Software:** Orange Data Mining (v3.x)
-- **Workflow File:** `final_workflow_k11.ows`
+- **Workflow File:** `internet_of_things LDA.ows`
 - **Key Parameters:**
   - **Preprocessing:** Tokenization, Lowercasing, Stopword removal (NLTK English list), and WordNet Lemmatization.
   - **Topic Modeling:** Latent Dirichlet Allocation (LDA) via Gensim.
   - **Number of Topics (K):** 11 (Selected based on coherence and perplexity scores).
   - **Passes/Iterations:** Default Orange settings.
 
-To reproduce the results, open the `.ows` file in Orange Data Mining and link the provided dataset to the 'File' widget.
+To reproduce the results, download raw data and open the `.ows` file in Orange Data Mining and link the provided dataset to the 'File' widget.
